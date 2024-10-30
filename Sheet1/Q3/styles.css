@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  overflow: hidden;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+text {
+  font-size: 1.3em;
+}
+
+.axis-label {
+  font-family: sans-serif;
+  font-size: 12px; 
+}
